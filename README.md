@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shadowtalegened
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- checkout my website https://web-skodo.shoot-xx.repl.co/
+
 
 
 <!---
